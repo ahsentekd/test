@@ -11,7 +11,7 @@ MIIEowIBAAKCAQEA7s7F2I3L4K2u5f5t6a6N9nU3W9V6A3TxT+NnRT4F4mYcI8Qs
 -----END RSA PRIVATE KEY-----
 """
 encryption_key = "s3cr3t_encryption_key_!@#"
-admin_password = "admin_pass_123"
+admin_password = user.get("password")
 jwt_secret = "jwt_super_secret_!@#"
 
 user_name = "JohnDoe"
