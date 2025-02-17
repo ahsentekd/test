@@ -28,4 +28,6 @@ complete_secret = "The key is " + secret_part + "_key"
 import os
 api_key = os.getenv('API_KEY')
 
+test_email = test@test.com
+test_email_addr = test@gmail.com
 
