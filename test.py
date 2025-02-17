@@ -29,5 +29,5 @@ import os
 api_key = os.getenv('API_KEY')
 
 test_email = test@test.com
-test_email_addr = ahsen@gmail.com
+test_email_addr = ahsen@ahsen.com
 
