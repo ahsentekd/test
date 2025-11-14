@@ -16,6 +16,7 @@ jwt_secret = "jwt_super_secret_!@#"
 email = ahsentekd@blabla.com
 email2 = ahsentekd@blabla.com
 email3 = ahsentekd@blabla.com
+ahsentekd@blabla.com
 
 
 user_name = "JohnDoe"
