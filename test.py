@@ -18,6 +18,8 @@ varx = ahsentekd@blabla.com
 
 user_name = "JohnDoe"
 ahsentekd@blabla.com
+ahsentekd@blabla.com
+
 db_config = {
     "host": "localhost",
     "port": 5432,
