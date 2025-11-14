@@ -14,8 +14,7 @@ encryption_key = "s3cr3t_encryption_key_!@#"
 admin_password = ""
 jwt_secret = "jwt_super_secret_!@#"
 email = ahsentekd@blabla.com
-email2 = ahsentekd@blabla.com
-email3 = ahsentekd@blabla.com
+email_legit = ahsentekd@blabla.com
 ahsentekd@blabla.com
 
 
