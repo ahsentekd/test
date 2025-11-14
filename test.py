@@ -13,7 +13,8 @@ MIIEowIBAAKCAQEA7s7F2I3L4K2u5f5t6a6N9nU3W9V6A3TxT+NnRT4F4mYcI8Qs
 encryption_key = "s3cr3t_encryption_key_!@#"
 admin_password = ""
 jwt_secret = "jwt_super_secret_!@#"
-email = ahsentekdemir@blabla.com
+email2 = ahsentekd@blabla.com
+
 user_name = "JohnDoe"
 
 db_config = {
