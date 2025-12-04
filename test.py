@@ -14,11 +14,10 @@ encryption_key = "s3cr3t_encryption_key_!@#"
 admin_password = ""
 jwt_secret = "jwt_super_secret_!@#"
 varx = ahsentekd@blabla.com
-
+xy = nonemail@gmail.com
 
 user_name = "JohnDoe"
-ahsentekd@blabla.com
-ahsentekd@blabla.com
+ahsentekd@ahsen.com
 
 db_config = {
     "host": "localhost",
